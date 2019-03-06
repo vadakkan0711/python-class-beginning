@@ -1,8 +1,6 @@
-def div(x,y):
-    z=x/y
-    return z
+import module
+
 a=10
 b=2
-c=div(a,b)
+c=module.div(a,b)
 print(c)
-    
